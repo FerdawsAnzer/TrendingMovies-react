@@ -16,14 +16,23 @@ CSS for styling
 TMDb API
 
 Setup and Installation
+
 1-Clone this repository to your local machine:
+
   git clone https://github.com/FerdawsAnzer/TrendingMovies-react.git
+  
 2-Navigate to the project directory:
+
   cd TrendingMovies-react
+  
 3-Install the necessary dependencies:
+
   npm install
+  
 4-Run the development server:
+
   npm start
+  
 --> The app will be available at http://localhost:3000.
 
 Usage
