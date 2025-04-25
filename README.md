@@ -36,8 +36,11 @@ Setup and Installation
 --> The app will be available at http://localhost:3000.
 
 Usage
+
 Home page: Displays the list of trending movies.
+
 Favorites page: Displays movies that you have marked as your favorites.
+
 Search: Use the search bar to find specific movies by title.
 
 License
