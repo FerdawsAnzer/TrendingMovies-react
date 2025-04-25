@@ -45,5 +45,4 @@ Favorites page: Displays movies that you have marked as your favorites.
 
 Search: Use the search bar to find specific movies by title.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
