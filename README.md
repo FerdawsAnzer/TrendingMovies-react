@@ -2,6 +2,7 @@ TrendingMovies-react 🎬💻:
 
 This is a React-based web application that allows users to browse and search for trending movies. The app uses the TMDb API to fetch movie data and display it in a user-friendly way.
 
+🤝 Project Overview:
 This project was created as part of my learning journey with React, where I started working with React components, state management, and API integration.
 
 🌟 Features
@@ -44,5 +45,8 @@ Home page: Displays the list of trending movies.
 Favorites page: Displays movies that you have marked as your favorites.
 
 Search: Use the search bar to find specific movies by title.
+
+📜 License :
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
