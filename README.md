@@ -11,6 +11,11 @@ Search for movies by title
 Add/remove movies to/from favorites
 View detailed information about movies
 
+📸 Screenshots:
+![image](https://github.com/user-attachments/assets/320281e7-be58-4f0c-98de-5e9631cb65ad)
+![image](https://github.com/user-attachments/assets/b689a53b-ac88-4e76-ba63-45fb1692c37e)
+![image](https://github.com/user-attachments/assets/1e083007-d70f-4000-91e0-0764a32bb11e)
+
 💻 Technologies Used:
 
 React
@@ -36,8 +41,6 @@ TMDb API
 
   npm start
   
---> The app will be available at http://localhost:3000.
-
 🧑‍💻 Usage:
 
 Home page: Displays the list of trending movies.
